@@ -12,6 +12,6 @@ Registre uma issue para sugestões ou problemas. Participe da sua comunidade loc
 
 ## Organizadores
 
-- André Bonfatti ([Github](https://github.com/andrebnf)), [site](http://andrebnf.com))
+- André Bonfatti ([Github](https://github.com/andrebnf), [site](http://andrebnf.com))
 - Breno Lima de Freitas ([GitHub](https://github.com/brenolf), [site](https://breno.io))
 - Mateus Craveiro ([GitHub](https://github.com/mccraveiro), [site](http://mccraveiro.github.io))
