@@ -1,5 +1,7 @@
 # SorocabaJS
 
+[![Join the chat at https://gitter.im/sorocabajs/meta](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sorocabajs/meta?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 SorocabaJS é um grupo de encontro para que os entusiastas de JavaScript de Sorocaba e região possam se reunir, programar e trocar experiência desde os mais experientes aos novatos! O SorocabaJS tem como objetivo criar espaços sociais de integração para fortalecer as comunidades locais de software.
 
 ## Quer compartilhar algo específico no encontro?
