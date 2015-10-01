@@ -25,3 +25,4 @@ Registre uma issue para sugestões ou problemas. Participe da sua comunidade loc
 - André Bonfatti ([Github](https://github.com/andrebnf), [website](http://andrebnf.com))
 - Breno Lima de Freitas ([GitHub](https://github.com/brenolf), [website](https://breno.io))
 - Mateus Craveiro ([GitHub](https://github.com/mccraveiro), [website](http://mccraveiro.github.io))
+- Vitor Casadei ([GitHub](https://github.com/vcasadei), [website](http://casadei.io/))
